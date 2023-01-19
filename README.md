@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swordf1sh
 - 👀 I’m interested in Python, Django projects
 - 🌱 I’m currently learning Kotlin, JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python, Django projects
 - 📫 How to reach me uripatton@gmail.com
 
 <!---
