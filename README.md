@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swordf1sh
-- 👀 I’m interested in Python, Django, Dart, Flutter projects
+- 👀 I’m interested in Python, Django, Rest, FastAPI, Dart, Flutter projects
 - 🌱 I’m currently learning Kotlin, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on Python, Django, Dart, Flutter projects
 - 📫 How to reach me uripatton@gmail.com
